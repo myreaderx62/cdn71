@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /><title>Говори, Москва, разговаривай, Россия! - </title><link rel="stylesheet" href="/misc/style.css" type="text/css" /><script language="javascript1.1" type="text/javascript" src="/misc/main.js"></script></head><body class="allfonts" style="background-repeat: no-repeat;" bgcolor="#fff2d2" background="/images/img/back.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><table width="1002" border="0" cellpadding="0" cellspacing="0"><tr><td colspan="2"><table width="1002" height="130" border="0" cellpadding="0" cellspacing="0"><tr><td width="757" height="130"><table width="757" height="130" border="0" cellpadding="0" cellspacing="0"><tr><td width="757" height="130"><h1>Говори, Москва, разговаривай, Россия!</h1></td></tr></table></td><td width="245"><img src="/images/img/logo.gif" width="245" height="130" alt="" /></td></tr></table></td></tr><tr><td rowspan="2" width="229" align="center" valign="top"><table width="190" border="0" cellpadding="0" cellspacing="0"><tr><td width="190"><img src="/images/img/menutop.gif" width="190" hspace="0" vspace="0" border="0" alt="" /></td></tr><tr><td width="190" background="/images/img/menubg.gif"><div style="padding-left: 15px; padding-right: 15px;"><p class="menu"><a href="/list/" class="menu">Лента разговоров</a></p><p class="menu"><a href="/add/" class="menu">Поделиться подслушанным</a></p><p class="menu"><a href="/reg/" class="menu">Зарегистрироваться</a></p><p class="menu"><a href="/cities/" class="menu">Все города</a></p><p class="menu"><a href="/about/" class="menu">О проекте</a></p><p class="menu"><a href="/feedback/" class="menu">Обратная связь</a></p><p class="menu"><a href="/siteusers/" class="menu"></a></p><p class="menu"><a href="/banners/" class="menu"></a></p><p class="menu"><a href="/inc-blocks/" class="menu"></a></p></div></td></tr><tr><td width="190"><img src="/images/img/menubot.gif" width="190" hspace="0" vspace="0" border="0" alt="" /></td></tr></table><img src="/images/img/spacer.gif" width="229" height="20" hspace="0" vspace="0" border="0" alt="" /><br />
+<form style="margin: 0px;" action="/list/auth/id_777/" name="a1" method="post">
+<table border="0" cellspacing="0" cellpadding="3"><input type=hidden name=go value="/favicon.ico">
+  <tr>
+	<td width="70px">Имя:</td>
+    <td><input maxlength="50" style="width: 100px;" name="login" /></td>
+  </tr>
+  <tr>
+    <td><span class="bltext">Пароль:</span></td>
+    <td><input maxlength="50" style="width: 100px;" name="password" type="password" /></td>
+  </tr>
+  <tr>
+	<td colspan="2"><span class="bltext"><input type="image" src="/images/img/submit.gif" value="ok" /></span></td>
+  </tr>
+  <tr>
+    <td colspan="5" style="padding: 5px 0px 0px 0px;" class="stext2">
+	<a href="/list/pwd/" class="bllink">Забыли пароль?</a>
+	</td>
+  </tr>
+ 
+  <tr><td colspan="2"><hr size="1"></td></tr>
+  <tr>
+    <td><span class="bltext">LJ user:</span></td>
+    <td><input maxlength="50" style="width: 100px;" name="lj_user" type="text" /></td>
+  </tr>
+  <tr>
+	<td colspan="2"><span class="bltext"><input type="image" src="/images/img/submit.gif" value="ok" /></span></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" style="padding: 5px 0px 0px 0px;">
+ </td>
+    </tr>
+     
+</table>
+</form>
+
+  <small>
+ <br><br><a href="http://overheard.ru/export/lj-rss/">RSS-поток</a> <img src="/images/xml.gif" alt="" border="0" align="absbottom"><br><br>
+ <a href="http://syndicated.livejournal.com/overheardfeed/profile">Трансляция в ЖЖ</a> <img src="/images/syndicated.gif" alt="" border="0" align="absbottom"><br><br>
+ <a href="http://www.livejournal.com/friends/add.bml?user=overheardfeed">Добавить в список друзей</a> <img src="/images/btn_addfriend.gif" alt="" border="0" align="absbottom"></small>
+<br /><br /><!--  <div align="center"><a href="http://bookfestival.eshkol.ru/about/"><img src="/images/doc/c14-logo1.gif" border="0" width="200" height="171" alt="Международный фестиваль израильской и еврейской книги в рамках Non/Fiction"><br><br>
+<b>Международный фестиваль израильской и еврейской книги<br>
+в рамках Non/Fiction</b></a></center> --></td><td height="107" valign="top" background="/images/img/header_back.gif" style="background-repeat: no-repeat;"><table width="773" height="107" border="0" cellpadding="0" cellspacing="0"><tr><td width="524" valign="top"><table width="524" border="0" cellpadding="0" cellspacing="15"><tr><td valign="top"><h2>Подслушано в России</h2></td><td valign="top" align="right"><h2>06.09.2020</h2></td></tr></table></td><td width="249"><img src="/images/img/spacer.gif" width="249" height="107" hspace="0" vspace="0" border="0" /></td></tr></table></td></tr><tr><td valign="top"><table width="773" border="0" cellpadding="0" cellspacing="0"><tr><td width="703" background="/images/img/bg2.gif" valign="top"><table width="100%" border="0" cellpadding="20" cellspacing="0"><tr><td><h4>Ошибка 404</h4><br /><b>Документ, который Вы запросили,
+не существует на этом сайте.</b>
+<br><br>
+Возможно, Вы набрали неверный адрес или документ был удалён.<br>
+Для того чтобы продолжить просмотр сайта, перейдите на <a href="/">Главную страницу</a>.<br /><br />Этот пользователь пока не подслушал ни одного разговора.<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /></td></tr></table></td><td width="70"><img src="/images/img/spacer.gif" width="70" height="1" border="0" hspace="0" vspace="0" alt="" /></td></tr></table><table width="773" border="0" cellpadding="0" cellspacing="0"><tr><td width="703" valign="top"><img src="/images/img/bottom.gif" hspace="0" vspace="0" border="0" /></td><td width="70"><img src="/images/img/spacer.gif" width="70" height="1" border="0" hspace="0" vspace="0" /></td></tr><tr><td width="703" valign="top"><img src="/images/img/spacer.gif" height="20" hspace="0" vspace="0" border="0" /></td><td width="70"><img src="/images/img/spacer.gif" width="70" height="1" border="0" hspace="0" vspace="0" /></td></tr><tr><td width="703" valign="top" background="/images/img/c.gif"><img src="/images/img/spacer.gif" height="84" width="120" hspace="0" vspace="0" border="0" align="left" alt="" /><br />© 2006 "Кристофер-контент". Все права защищены.<br><br>
+<div align="right"><small>Сайт работает на технологии <a href="http://www.ura.org.ua/">Q-Portal</a> &nbsp; &nbsp;</small></div><br></td><td width="70"><img src="/images/img/spacer.gif" width="70" height="1" border="0" hspace="0" vspace="0" alt="" /></td></tr></table><!--begin of Rambler's Top100 code --> <a href="http://top100.rambler.ru/top100/"> <img src="http://counter.rambler.ru/top100.cnt?856908" alt="" width=1 height=1 border=0></a> <!--end of Top100 code--> <!--begin of Top100 logo--> <a href="http://top100.rambler.ru/top100/"> <img src="http://top100-images.rambler.ru/top100/w7.gif" alt="Rambler's Top100" width=88 height=31 border=0></a> <!--end of Top100 logo --> <!--Rating@Mail.ru COUNTEr--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<a href="http://top.mail.ru/jump?from=1025322"'+
+' target=_top><img src="http://d5.ca.bf.a0.top.list.ru/counter'+
+'?id=1025322;t=53;js='+js+a+';rand='+Math.random()+
+'" alt="Рейтинг@Mail.ru"'+' border=0 height=31 width=88/><\/a>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><a target=_top href="http://top.mail.ru/jump?from=1025322"><img src="http://d5.ca.bf.a0.top.list.ru/counter?js=na;id=1025322;t=53" border=0 height=31 width=88 alt="Рейтинг@Mail.ru"/></a></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER--> <!--LiveInternet counter--><script type="text/javascript"><!--
+document.write('<a href="http://www.liveinternet.ru/click" '+
+'target=_blank><img src="http://counter.yadro.ru/hit?t16.6;r'+
+escape(document.referrer)+((typeof(screen)=='undefined')?'':
+';s'+screen.width+'*'+screen.height+'*'+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+';u'+escape(document.URL)+
+';'+Math.random()+
+'" alt="" title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодн\я" '+
+'border=0 width=88 height=31></a>')//--></script><!--/LiveInternet--> <br><br></td></tr></table></body></html>
